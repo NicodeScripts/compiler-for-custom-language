@@ -1,0 +1,9 @@
+func main() >> int32 {
+    int32 y: 10;
+    int32 x: 32;
+    int32 z: x+y;
+    show(int32) x;
+    show(int32) y;
+    show(int32) x+y;
+    show(int32) z*4;
+}
