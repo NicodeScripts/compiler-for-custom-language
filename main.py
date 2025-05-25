@@ -60,12 +60,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
-    # to compile:
-    # python3 main.py basic.ind
-    # run with ./out-basic.ind
-
-#To-do:
-# Add in strings
-# Brackets for maths
-# Functions?
